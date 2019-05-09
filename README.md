@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/xcatliu/typescript-tutorial.svg?branch=master)](https://travis-ci.org/xcatliu/typescript-tutorial) [![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/typescript-tutorial.svg)](https://greenkeeper.io/)
 
 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
+
 ## 关于本书
 
 - [在线阅读](https://ts.xcatliu.com/)（部署在 [GitBook](https://www.gitbook.com/book/xcatliu/typescript-tutorial/details) 上，可能需要翻墙）
